@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on get your the best decision 
 - 📫 How to reach me : My Email: pooneh.nezamabadi1990@gmail.com and my phone number:01756808101
 - 😄 Pronouns: Mrs( Pooneh)
-- ⚡ Fun fact: Could you please speak with me slow and clear? Cause I try to improve my Second and Third Language !
+- 
 
 <!---
 Pooneh2023/Pooneh2023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
