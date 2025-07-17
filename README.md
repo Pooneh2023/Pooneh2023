@@ -29,14 +29,13 @@ I believe in clean data, clear visuals, and concise insights. My goal is to supp
 ## 🤝 Let’s Collaborate!
 I’m open to:
 - Data-focused projects
-- Internships or entry-level analyst roles
+- Internships or entry-level until Mid level analyst roles
 - Contributions to open-source or public data challenges
 
 ---
 
 ## 📫 Connect with Me
 - 📧 Email: pooneh.nezamabadi1990@gmail.com  
-- 📞 Phone: +49 175 6808101  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pooneh-nezamabadi)  
 - 💻 [HackerRank](https://www.hackerrank.com/profile/pooneh_nezamaba1)
 
