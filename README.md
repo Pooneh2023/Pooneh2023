@@ -6,7 +6,7 @@
 
 ## 👀 What I’m Interested In
 - Data Analysis & Business Intelligence  
-- Python, SQL, and Data Pipelines  
+- Python, SQL, DBT and Data Pipelines( workflow)  
 - Data Visualization (Tableau, Power BI)  
 - Machine Learning (Regression, Classification)  
 - Building interactive dashboards and reports  
