@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Pooneh Nezamabadi (@Pooneh2023)
 
-🎯 I’m a Data Analyst with a background in Software Engineering, passionate about turning raw data into meaningful insights that drive smarter decisions.
+🎯 I’m a Data Analyst/ Analyst Engineer with a background in Software Engineering, passionate about turning raw data into meaningful insights that drive smarter decisions and building Pipeline with DBT!
 
 ---
 
